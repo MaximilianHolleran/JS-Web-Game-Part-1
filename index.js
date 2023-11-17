@@ -7,6 +7,7 @@ function newImage (asset) {
     return icon
 }
 
+
 function move(image){
     image.style.position = 'fixed'
 
